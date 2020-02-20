@@ -1,0 +1,56 @@
+<!-- Grid row -->
+<html>
+    <head>
+        <title>Gallery</title>
+        <link rel="stylesheet" href="gallery.css">
+        </head>
+        <body>
+<div class="row">
+  <!-- Grid column -->
+
+</div>
+<!-- Grid row -->
+
+<!-- Grid row -->
+<div class="gallery" id="gallery">
+
+  <!-- Grid column -->
+  <div class="mb-3 pics animation all 2">
+    <img class="img-fluid" src="1.png" alt="Card image cap">
+  </div>
+  <!-- Grid column -->
+
+  <!-- Grid column -->
+  <div class="mb-3 pics animation all 1">
+    <img class="img-fluid" src="2.png" alt="Card image cap">
+  </div>
+  <!-- Grid column -->
+
+  <!-- Grid column -->
+  <div class="mb-3 pics animation all 1">
+    <img class="img-fluid" src="3.png" alt="Card image cap">
+  </div>
+  <!-- Grid column -->
+
+  <!-- Grid column -->
+  <div class="mb-3 pics animation all 2">
+    <img class="img-fluid" src="1.png" alt="Card image cap">
+  </div>
+  <!-- Grid column -->
+
+  <!-- Grid column -->
+  <div class="mb-3 pics animation all 2">
+    <img class="img-fluid" src="2.png" alt="Card image cap">
+  </div>
+  <!-- Grid column -->
+
+  <!-- Grid column -->
+  <div class="mb-3 pics animation all 1">
+    <img class="img-fluid" src="4.png" alt="Card image cap">
+  </div>
+  <!-- Grid column -->
+
+</div>
+</body>
+<!-- Grid row -->
+</html>
